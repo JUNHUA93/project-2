@@ -27,8 +27,8 @@ font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; 
 #nav{
    width: 60%;
    display: inline-block;
-   text-align: right;
-   float: right;
+   text-align: left;
+   float: left;
 }
    #nav ul{}
        #nav ul li{
